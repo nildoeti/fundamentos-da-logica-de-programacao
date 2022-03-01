@@ -1,7 +1,11 @@
 # Fundamentos da Lógica de Programação
 ![](./img/mysterious-computer.jpg)
+
 Antes de aprender uma linguagem de programação, se torna necessário o domínio
 da lógica de programação.
+Este material é um resumo de cursos, leituras e pesquisas sobre o tema Lógica
+de Programação e Algoritmos.
+
 
 
 
