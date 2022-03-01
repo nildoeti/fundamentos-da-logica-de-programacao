@@ -1,6 +1,12 @@
 # Fundamentos da Lógica de Programação
-Antes de aprender uma linguagem de programação, se torna necessário o domínio da lógica de programação.
+![](./img/mysterious-computer.jpg)
+Antes de aprender uma linguagem de programação, se torna necessário o domínio
+da lógica de programação.
 
 
-## Fundamentos da Lógica
-[Narrativa Descritiva]()
+
+## Parte 1
+- [Narrativa Descritiva](https://github.com/nildoeti/fundamentos-da-logica-de-programacao/blob/main/narracao-descritiva/narracao-descritiva.md)
+
+
+
