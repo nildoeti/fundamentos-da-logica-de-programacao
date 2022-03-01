@@ -21,7 +21,7 @@ Em outras palavras, precisamos compreendê-lo completamente, desde suas funçõe
 	- A solução estruturada de problemas do cotidiano
 	- Representação formal da solução de problemas utilizando narrativa
 	- [Representação formal da solução de problemas utilizando fluxogramas](https://github.com/nildoeti/fundamentos-da-logica-de-programacao/blob/main/narracao-descritiva/narracao-descritiva.md)
-	- O pensamento estruturado aplicado à Informática, utilizando narrativa e fluxograma
+	- [O pensamento estruturado aplicado à Informática, utilizando narrativa e fluxograma](./fluxogramas/representacaoDeProblemasComFluxogramas.md)
 	- Representação formal da solução de problemas de Informática utilizando Portugol
 
 - Tópico II: Conceitos básicos de programação
