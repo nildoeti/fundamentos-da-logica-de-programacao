@@ -19,7 +19,9 @@ Ajuda nos a:
 ![Fluxograma](../img/caracteristicas-de-um-fluxograma.png)
 
 
+
 Exemplo de um fluxograma que ilustra o dia a dia de domingo de uma pessoa.
+
 ![](../img/fluxograma-para-um-domingo.jpg)
 
 
