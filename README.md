@@ -1,10 +1,7 @@
 # Fundamentos da Lógica de Programação
 ![](./img/mysterious-computer.jpg)
 
-Antes de aprender uma linguagem de programação, se torna necessário o domínio
-da lógica de programação.
-Este material é um resumo de cursos, leituras e pesquisas sobre o tema Lógica
-de Programação e Algoritmos.
+
 
 >	Everybody in this country should learn how to program a computer because it 
 >	teaches you how to think.” – (Todo mundo neste país deveria aprender a 
@@ -18,16 +15,12 @@ Em outras palavras, precisamos compreendê-lo completamente, desde suas funçõe
 
 
 
-## Parte 1
-- [Narrativa Descritiva](https://github.com/nildoeti/fundamentos-da-logica-de-programacao/blob/main/narracao-descritiva/narracao-descritiva.md)
-
-
 
 - Tópico I: Fundamentos da Lógica
 	- Introdução ao curso
 	- A solução estruturada de problemas do cotidiano
 	- Representação formal da solução de problemas utilizando narrativa
-	- Representação formal da solução de problemas utilizando fluxogramas
+	- [Representação formal da solução de problemas utilizando fluxogramas](https://github.com/nildoeti/fundamentos-da-logica-de-programacao/blob/main/narracao-descritiva/narracao-descritiva.md)
 	- O pensamento estruturado aplicado à Informática, utilizando narrativa e fluxograma
 	- Representação formal da solução de problemas de Informática utilizando Portugol
 
@@ -65,3 +58,6 @@ Em outras palavras, precisamos compreendê-lo completamente, desde suas funçõe
 	- Exercício Prático 12
 	- Repetição com variável de controle (PARA)
 	- Exercício Prático 13
+
+
+Este material faz parte do treinamento do curso de **Lógica de Programação** da [Soul Code Academy](https://soulcodeacademy.org/).
