@@ -1,0 +1,22 @@
+Algoritmo "EstruturaDecisoes"
+//
+//
+// Descricao   : Definir duas variaveis A e B e atribuir um valor a cada uma
+//               e fazer testes condicionais simples e compostos
+// Autor(a)    : Nildo
+// Data atual  : 16/7/2022
+
+Var
+   A, B: Initeiro
+inicio
+   A <- 30
+   B <- 10
+
+   Se A > B Entao
+      Escreva("A maior que B")
+      Senao
+         Escreva("B maior que A")
+      Fimse
+   Fimse
+
+Fimalgoritmo
