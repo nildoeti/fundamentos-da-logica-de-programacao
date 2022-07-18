@@ -1,0 +1,20 @@
+programa "ORDE_INVERSA"
+// Descricao: Ler 10 numeros e exibir na ordem inversa
+
+var
+	NUMERO: vetor[0..9] de inteiro
+	I: inteiro
+inicio
+	// ordem normal
+	para I de 0 ate 9 faca
+		escreva "Digite um numero: "
+		leia NUMERO[I]
+	fim_para
+
+	// ordem inversa
+	para I de 9 ate 0  passo -1 faca
+		escreva "Digite um numero "
+		leia NUMERO[I]
+	fim_para
+
+fim
