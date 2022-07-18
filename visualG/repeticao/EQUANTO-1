@@ -1,0 +1,22 @@
+programa "EQUANTO-1"
+
+var
+	NOMES: vetor[0..4] de caracter
+	I: inteiro
+inicio
+	NOMES[0] <- "Beltrano"
+	NOMES[1] <- "Ciclano"
+	NOMES[2] <- "Fulano"
+	NOMES[3] <- "Talano"
+
+	// acessando dados do vetor
+	// escreva NOMES[0]
+	// escreva NOMES[1]
+	// escreva NOMES[2]
+	// escreva NOMES[3]
+
+	enquanto I < 4 faca
+		escreva NOMES[1]
+		I <- I + 1
+	fim_enquanto
+fim
