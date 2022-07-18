@@ -1,6 +1,5 @@
 Algoritmo "CALCULA_IDADE"
-// 
-//  
+
 // Descrição   : programa que recebe ano de nascimento e ano atual
 //               e retorne a idade
 // Autor(a)    : Nildo
@@ -10,16 +9,16 @@ Algoritmo "CALCULA_IDADE"
 // Ler ano de nascimento e ano atual e calcular a idade
 
 Var
-   anoAtual, AnoNascimento, Idade:Inteiro
+   A_ATUAL, A_NASCIMENTO, IDADE:Inteiro
 
 Inicio
    Escreva("Digite ano atual: ")
-   Leia(AnoAtual)
+   Leia(A_ATUAL)
    Escreva("Digite ano de nascimento: ")
-   Leia(AnoNascimento)
+   Leia(A_NASCIMENTO)
 
-   Idade <- AnoAtual - AnoNascimento
-   
-   escreva("Idadee informada: ", Idade)
+   IDADE <- A_ATUAL - A_NASCIMENTO
+
+   escreva("Idade informada: ", IDADE)
 
 Fimalgoritmo
