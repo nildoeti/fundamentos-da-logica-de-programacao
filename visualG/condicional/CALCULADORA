@@ -1,0 +1,45 @@
+programa "CALCULADORA"
+// Descricao: algoritmo de uma calculadora
+// Autor: Nildo
+// Data atual: 18/07/2022
+
+var
+	NUM1, NUM2: inteiro
+	RESULTADO
+	OPERADOR: caractere
+
+inicio
+	escreva "Informe o operador"
+	leia OPERADOR
+	escreva "Informe o primeiro numero: "
+	leia NUM1;
+	escreva "Informe o segundo numero: "
+	leia NUM2
+
+	se OPERADOR = "ADICAO" entao
+		RESULTADO = NUM1 + NUM2
+		senao
+			se OPERADOR = "SUBTRACAO" entao
+				RESULTADO <- NUM1 - NUM2
+				senao
+					se OPERADOR = "MULTIPLICACAO" entao
+						RESULTADO <- NUM1 * NUM2
+						senao
+							se OPERADOR = "DIVISAO" entao
+								RESULTADO <- NUM1 / NUM2
+								senao
+									se OPERADOR = "RESTO" entao
+										RESULTADO <- NUM1 % NUM2
+										senao
+											se OPERADOR = "PORCENTAGEM" entao
+												RESULTADO <= (NUM1 * NUM2) / 100
+												senao
+													escreva 'Operador invalido'
+											fim_se
+									fim_se
+							fim_se
+					fim_se
+			fim_se
+	fim_se
+
+fimalgoritmo
