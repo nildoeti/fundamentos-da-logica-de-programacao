@@ -1,0 +1,13 @@
+programa ESTRUTURA_DECISOES_3
+
+var
+	A, B: inteiro
+inicio
+	A <- 10
+	B <- 5
+
+	se A > B entao
+		escreva "A maior que B"
+	fim_se
+	escreva "B maior que A"
+fimalgoritmo
