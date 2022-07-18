@@ -1,0 +1,16 @@
+algoritmo "PARA"
+
+var
+	NOMES: vetor[0..4] de caracter
+	I: inteiro
+inicio
+	NOMES[0] <- "Fulano"
+	NOMES[1] <- "Beltrano"
+	NOMES[2] <- "Ciclano"
+	NOMES[3] <- 'Daclano'
+	NOMES[4] <- "Faclano"
+
+	para I de 0 ate 4 faca
+		escreva NOMES[I]
+	fim_para
+fim
