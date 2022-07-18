@@ -28,10 +28,10 @@ Inicio
    Leia(NOTA3)
    Escreva("Digite a quarta nota: ")
    Leia(NOTA4)
-   
+
    // Processamento
    MEDIA <- (NOTA1 + NOTA2 + NOTA3 + NOTA4) / 4
-   
+
    //Saida do processamento dos dados
    Escreva("Media das notas infornadas: ", MEDIA)
 
