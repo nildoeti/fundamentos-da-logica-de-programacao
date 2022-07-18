@@ -6,7 +6,7 @@ Algoritmo "ESTRUTURA_DECISOES"
 // Data atual  : 16/7/2022
 
 Var
-   A, B: Initeiro
+   A, B: Inteiro
 inicio
    A <- 30
    B <- 10
