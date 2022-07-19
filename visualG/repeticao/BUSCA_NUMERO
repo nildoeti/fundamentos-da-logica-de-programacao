@@ -1,0 +1,31 @@
+programa "BUSCA_NUMERO"
+// Descricao: Verificar se um numero em um vetor esta ou nao presente
+// Entendimento:	1- Ler um vetor de 10 numeros
+// 					2- armazenar em memoria
+// 					3- Ler um numero digitado pelo usuario
+// 					4- verificar se numero digitado esta presente no vetor
+var
+	NUMEROS: vetor[0..9] de inteiro
+	I, VALOR; inteiro
+	EXISTE: logico
+inicio
+	para I de 0 ate 9 faca
+		escreva "	Digite um numero: "
+		leia NUMEROS
+	fim_para
+
+	escreva "Qual valor deseja buscar? "
+	leia VALOR
+
+	EXISTE <- false
+	para I de 0 ate 9 faca
+		se NUMEROS[i] = VALOR entao
+			EXISTE <- true
+		fim_se
+	fim_para
+	se EXISTE entao
+		escreva "O valor existe no vetor."
+	senao
+		escreva "O valor nao existe no vetor"
+	fim_se
+fim
